@@ -1,24 +1,80 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# hello_rails_development
 
-Things you may want to cover:
+> This project is basically teaching about ruby on rails first usage and installation process.
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails [click here >>](https://guides.rubyonrails.org/)
 
-* Configuration
+## Getting Started
 
-* Database creation
+To get a local copy up and running follow these simple example steps.
 
-* Database initialization
 
-* How to run the test suite
+ ## Built with
 
-* Services (job queues, cache servers, search engines, etc.)
+- ![](https://img.shields.io/badge/Github-blueviolet)
+- ![](https://img.shields.io/badge/Ruby-red)
 
-* Deployment instructions
 
-* ...
+### Setup
+
+$ rails new Hello_Rails --database=postgresql
+
+$ Clone the repository and change the directory to blog
+
+```
+  $ git clone https://github.com/techEmprez/Hello_Rails.git
+
+  $ cd Hello_Rails
+```
+
+### Install
+
+Install all project dependencies by running the command below
+
+```
+  $ bundle install
+```
+
+### Run the application
+
+```
+  Linux
+  $ bin/rails server
+```
+
+```
+  Windows
+  $ ruby bin/rails server
+```
+
+### Visit the homepage of application
+
+```
+  $ http://localhost:3000/
+```
+
+### Author
+
+👤 **Choice Osobor**
+
+- GitHub: [@techEmprez](https://github.com/techEmprez)
+- Twitter: [@techEmprez](https://twitter.com/techEmprez)
+- LinkedIn: [Choice Osobor](https://www.linkedin.com/in/choice-osobor/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Favourezeugwa/Hello_Rails/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to [Microverse](https://bit.ly/MicroverseTN) for giving me this project to work on
